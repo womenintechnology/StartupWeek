@@ -23,8 +23,9 @@ h1 {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 h1:hover{
-   background: orange; 
+  ` background: orange; 
     box-shadow: 0 8px 16px 0 rgba(50, 116, 165, 0.2), 0 6px 20px 0 rgba(51, 93, 206, 0.19);
+    color: brown;
 }
 
 h2 {
