@@ -1,0 +1,89 @@
+Agenda:
+1. ”Projektowanie i przetwarzanie danych w SQL” - Natalia Stanko
+
+Język SQL to jedno z podstawowych narzędzi każdego developera do manipulacji danych w aplikacjach internetowych (i nie tylko).
+Na warsztatach dowiesz się, w jaki sposób przechowywane są dane klientów, towarów i usług w sklepie internetowym oraz jak zarządzać takimi zbiorami danych. Będziesz miał_a okazję zaprojektować bazę danych i stworzyć podłoże aplikacji internetowej. Poznasz język SQL, nauczysz się dodawać, usuwać, modyfikować i wyświetlać interesujące Cię dane z baz danych.
+Warsztaty przeznaczone są dla osób, które do tej pory nie operowały jeszcze na bazach danych z konsoli poleceń lub na bazach danych relacyjnych w ogóle.
+
+Kiedy: 03.11 (czwartek) 16:30 - 19:30
+Gdzie: ul. A Gramatyka 10, Wydział Zarządzania AGH
+
+Wymagania:
+Laptop
+Instalacja oprogramowania wg instrukcji przesłanych na maila.
+
+Link do zapisów:
+https://www.eventbrite.com/e/projektowanie-i-przetwarzanie-danych-w-sql-tickets-28817518975
+
+2. ”Aplikacje mobilne - android” - Aleksandra Majchrzak
+
+Gotta code 'em all!
+Każdy z nas korzysta ze smarftonów czy tabletów. Każdy z nas ma co najmniej tę jedną funkcjonalność, która jest mu potrzebna, a nie ma jej w żadnej ogólnodostępnej aplikacji.
+Czy aż tak skomplikowane jest napisane samemu tej aplikacji, która będzie dokładnie tym czego potrzebujemy?
+Na tych warsztatach udowodnimy, że nie!
+
+A wszystko to w klimacie wszechobecnych w ostatnim czasie Pokemonów.
+Gotowi? Pokeballe do plecaka, czapka na głowę i 'Gotta code 'em all'!
+
+Kiedy: 04.11 (piątek) 16:30 - 20:00
+Gdzie: ul. A Gramatyka 10, Wydział Zarządzania AGH
+
+Wymagania:
+laptop
+Instalacja oprogramowania wg instrukcji przesłanych na maila.
+
+Link do zapisów:
+https://www.eventbrite.com/e/aplikacje-mobilne-android-tickets-28817540038
+
+
+3. ”Sobota z GITem” - Natalia Stanko
+
+Ułatw sobie pracę w zespole - poznaj GITa. GIT to nowoczesny, rozproszony system kontroli wersji. Synchronizuje pliki edytowane przez wszystkich uczestników projektu. Jego popularność w ciągu ostatnich kilku lat rośnie w ogromnym tempie. Jest standardem pracy w małych i dużych projektach, dlatego warto go poznać.
+
+Dla kogo?
+Dla osób, które do tej pory nie pracowały z GITem.
+
+
+Kiedy: 05.11 (sobota) 10:00 - 13:00
+Gdzie: ul. A Gramatyka 10, Wydział Zarządzania AGH
+
+Wymagania
+Przynieść laptop z zainstalowanym GITem.
+Instrukcja instalacji dla poszczególnych systemów operacyjnych znajduje się na stronie https://git-scm.com/downloads
+
+Założone konto w systemie github.com
+
+Link do zapisów:
+https://www.eventbrite.com/e/sobota-z-gitem-tickets-28817554080
+
+4. ”O co chodzi z tym java script?” - Anna Szwiec
+
+Warsztaty dla osób które chcą poznać podstawy najpopularniejszego (chyba) języka programowania. Chcesz dowiedzieć się o co chodzi z tym JavaScriptem? Dlaczego jest jednym z najpopularniejszych języków programowania? Co ma wspólnego JS z Javą? Jak to działa? Jak wstawić skrypt na stronę? Chcesz poznać podstawy programowania w js i wreszcie.. napisać prostą grę? Zapraszamy na warsztaty!
+
+Dla kogo?
+Dla osób które jeszcze nie programują a chcą zacząć.
+
+Kiedy: 08.11 (wtorek) 16:30 - 19:30
+Gdzie: ul. A Gramatyka 10, Wydział Zarządzania AGH
+
+Wymagania:
+Laptop
+Instalacja oprogramowania wg instrukcji przesłanych na maila.
+
+Link do zapisów:
+https://www.eventbrite.com/e/o-co-chodzi-z-tym-java-script-tickets-28817576146
+
+5. ”Jak technologię ugryźć biznesowo?” - Ewelina Wołoszyn
+Na tych warsztatach dowiesz się czym różni się praca w startupie a korporacji, poznasz obecne trendy w technologii, podpowiemy Ci jak zaplanować własną ścieżkę kariery i wreszcie.. Jak wypromować wydarzenie za pomocą lakieru do paznokci ;)
+
+Dla kogo?
+Dla wszystkich :)
+
+Kiedy: 09.11 (środa) 17:00 - 20:00
+Gdzie: ul. A Gramatyka 10, Wydział Zarządzania AGH
+
+Wymagania:
+Otwarty umysł.
+
+Link do zapisów:
+https://www.eventbrite.com/e/jak-technologie-ugryzc-biznesowo-tickets-28817586176
